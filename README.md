@@ -82,7 +82,7 @@ People should adopt new technology and encourage others.
 To meet demand for food, technological innovation should be funded by government.
 
 It could help reduce the rate for poverty among individuals.
-
+ Thanks 
 
 
 
