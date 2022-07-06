@@ -1,12 +1,12 @@
 # Farmers-Adoption
-#Introduction
+#Introduction:
 
 The project aims to understand the important of agricultural method, which farmers should adoption in farm productions. It is also help famers know which method should be adopt or not based on the current state of the Country. Finally to explore my skills understanding with data visualization.
   
-#Problem Statement 
+#Problem Statement :
 The need for meet more demand for higher quality of food have been a challenge, coupled with unwillingness of people to learn and adopt new technological methods for farming. Here we shall be explore the important of adopting new technology and how it have impacted the income of the farms.
 
-#Data Source 
+#Data Source :
 The data is primary data gotten from respondents in Plateau state of Nigeria between 2018 and 2021. It should however be noted that some data wrangling has been carried out on the dataset. Dataset was cleared on an Excel and further visualized on Power BI.
 Rows in the Dataset
 AGE
